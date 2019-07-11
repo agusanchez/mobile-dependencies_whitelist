@@ -37,6 +37,10 @@
       "version": "^~>\\s?1.[0-9]+$"
     },
     {
+      "name": "Adjust",
+      "version": "^~>\\s?[0-9]+.[0-9]+$"
+    },
+    {
       "name": "Firebase/Core",
       "version": "^~>\\s?4.13.0$"
     },
@@ -68,6 +72,10 @@
     {
       "name": "MercadoPagoSDK",
       "version": null
+    },
+    {
+      "name": "MercadoPagoSDKV4",
+      "version": "^~>\\s?4.[0-9]+$"
     },
     {
       "name": "PXMLPaymentProcessor",
@@ -182,8 +190,12 @@
       "version": "^~>\\s?0.[0-9]+$"
     },
     {
+      "name": "MLCardDrawer",
+      "version": "^~>\\s?1.[0-9]+$"
+    },
+    {
       "name": "MLNavigationCP",
-      "version": "^~>\\s?1.[0-9]+"
+      "version": "^~>\\s?[1-2]+.[0-9]+"
     },
     {
       "name": "MLUINavigationCP",
@@ -335,7 +347,23 @@
     },
     {
       "name": "MLVPP",
-      "version": null
+      "version": "^~>\\s?[0-1]+.[0-9]+"
+    },
+    {
+      "name": "MLLogin",
+      "version": "^~>\\s?1.[0-9]+$"
+    },
+    {
+      "name": "Bugsnag",
+      "version": "^~>\\s?5.[0-2][0-9]+"
+    },
+    {
+      "name": "MLSecurity",
+      "version": "^~>\\s?1.[0-9]+"
+    },
+    {
+      "name": "SmiSdk",
+      "version": "3.6.0"
     }
   ]
 }
