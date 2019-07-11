@@ -376,8 +376,7 @@
         },
         {
             "group": "com\\.mercadolibre\\.android\\.merchengine",
-            "name": "secondaryactions",
-            "version": "EXPERIMENTAL-1.1.4-SNAPSHOT-20190711185658"
+            "name": "secondaryactions"
         },
         {
             "group": "com\\.mercadolibre\\.android\\.mlcharts",
