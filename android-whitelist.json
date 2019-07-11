@@ -376,7 +376,7 @@
         },
         {
             "group": "com\\.mercadolibre\\.android\\.merchengine",
-            "name": "secondaryactions",
+            "name": "secondary_actions",
             "version": "1\\.1\\.70"
         },
         {
